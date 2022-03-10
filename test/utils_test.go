@@ -3,9 +3,9 @@ package test
 import (
 	"errors"
 	"fmt"
+	utils "kits"
 	"testing"
 	"time"
-	"utils"
 )
 
 func TestRetryWithTime(t *testing.T) {

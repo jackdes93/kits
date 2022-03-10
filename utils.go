@@ -2,9 +2,9 @@ package utils
 
 import (
 	"fmt"
+	"kits/config"
 	"log"
 	"time"
-	"utils/config"
 )
 
 /** Retry Functions **/
